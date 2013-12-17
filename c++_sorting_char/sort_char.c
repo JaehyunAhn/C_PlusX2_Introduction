@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// stack overflow : http://stackoverflow.com/questions/20646812/parsing-pointer-parameter-in-c/20646929?noredirect=1#20646929
+
 void swap (char data[5][255], int i, int j) {
     char temp[255];
     strcpy(temp,data[i]);
