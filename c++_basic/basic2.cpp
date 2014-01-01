@@ -2,8 +2,6 @@
 
 class Shape {
 	public:
-		Shape (int origin);
-		~Shape ();
 		virtual void draw() = 0;
 	private:
 		int original;
@@ -11,8 +9,9 @@ class Shape {
 
 class Circle : public Shape {
 	public:
-		Circle (int origin, int radius);
-		~Circle();
+		Circle (int a, int b) {
+			std::cout << a << std::endl;
+		}
 		void draw () {
 			std::cout << "drawed!" << std::endl;
 		}

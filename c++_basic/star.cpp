@@ -4,6 +4,9 @@ using namespace std;
 
 class Unit {
 	public:
+		Unit(){
+			std::cout << "called!" << std::endl;
+		}
 		virtual void move () = 0;
 };
 
