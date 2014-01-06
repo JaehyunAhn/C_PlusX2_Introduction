@@ -7,3 +7,5 @@ Philip Machanick Project X Sogo
 * 함수, 변수의 이름은 소문자로 시작
 * 연결단어 첫글자는 대문자
 * 의미있는 이름
+* using namespace std; 
+	<< std::cout 대신 cout을 사용할 수 있음
