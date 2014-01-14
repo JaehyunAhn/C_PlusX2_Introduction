@@ -9,3 +9,4 @@ Philip Machanick Project X Sogo
 * 의미있는 이름
 * using namespace std; 
 	<< std::cout 대신 cout을 사용할 수 있음
+* _ 는 함수 argument에 사용
