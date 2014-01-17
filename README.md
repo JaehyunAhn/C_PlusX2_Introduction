@@ -2,6 +2,7 @@
 # C and C++ in 5 days
 - 실제로는 2주하고 3일정도 더 걸렸음(18일...)
 - (Philip Machanick Project) X (Sogo)
+- 2013.12 ~ 2014.01
 
 ## Coading Convention with C++
 
