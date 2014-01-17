@@ -1,7 +1,10 @@
 
-C and C++ in 5 days
+# C and C++ in 5 days
+- 실제로는 2주하고 3일정도 더 걸렸음(18일...)
 
-Philip Machanick Project X Sogo
+(Philip Machanick Project) X (Sogo)
+
+- Coading Convention with C++
 
 * class 의 이름은 대문자로 시작
 * 함수, 변수의 이름은 소문자로 시작
